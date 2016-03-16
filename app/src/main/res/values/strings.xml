@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">FlashLight</string>
+    <string name="action_settings">Settings</string>
+    <string name="buttonDescription">Image for the on button</string>
+    <string name = "flashNotFound">Flash Not Found</string>
+</resources>
